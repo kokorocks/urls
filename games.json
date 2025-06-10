@@ -2,13 +2,13 @@
   {
     "name": "Pixel Platformer",
     "url": "https://kokorocks.github.io/pixel-platformer/",
-    "image": "https://api.dicebear.com/6.x/shapes/svg?seed=game1",
+    "image": "https://api.dicebear.com/6.x/shapes/svg?seed=pixelplatformer",
     "description": "A fun pixel platformer game."
   },
   {
-    "name": "Another Game",
-    "url": "https://example.com/game2",
-    "image": "https://example.com/game2.png",
-    "description": "Another downloadable app."
+    "name": "Blockeor",
+    "url": "https://kokorocks.github.io/blockeor/",
+    "image": "https://api.dicebear.com/6.x/shapes/svg?seed=blockeor",
+    "description": "my best game so far ig."
   }
 ]
